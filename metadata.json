@@ -1,0 +1,6 @@
+{
+  "name": "NESA - Novel Edge Self-Adaptive Algorithm",
+  "description": "A modern, production-ready Smart Weather Monitoring and Control web application for farmers, greenhouse owners, and smart agriculture with dynamic glassmorphic dashboards, live sensor logs, automatic device controllers, and Gemini AI agricultural insights.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
